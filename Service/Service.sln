@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{22554BE8-3E3C-4686-8828-7A63EF11A92E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCode.Redis", "EFCode.Redis\EFCode.Redis.csproj", "{DF8D5148-CFF1-483A-8EEB-836D66141C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDomain", "EFDomain\EFDomain.csproj", "{CF36E99F-3C7E-433E-AB1E-60CAF5D913B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{3FABAEFA-EA9E-41EC-8487-184FC6519EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22554BE8-3E3C-4686-8828-7A63EF11A92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22554BE8-3E3C-4686-8828-7A63EF11A92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22554BE8-3E3C-4686-8828-7A63EF11A92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22554BE8-3E3C-4686-8828-7A63EF11A92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8D5148-CFF1-483A-8EEB-836D66141C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8D5148-CFF1-483A-8EEB-836D66141C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8D5148-CFF1-483A-8EEB-836D66141C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8D5148-CFF1-483A-8EEB-836D66141C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF36E99F-3C7E-433E-AB1E-60CAF5D913B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF36E99F-3C7E-433E-AB1E-60CAF5D913B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF36E99F-3C7E-433E-AB1E-60CAF5D913B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF36E99F-3C7E-433E-AB1E-60CAF5D913B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FABAEFA-EA9E-41EC-8487-184FC6519EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FABAEFA-EA9E-41EC-8487-184FC6519EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FABAEFA-EA9E-41EC-8487-184FC6519EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FABAEFA-EA9E-41EC-8487-184FC6519EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
